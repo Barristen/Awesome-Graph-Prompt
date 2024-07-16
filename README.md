@@ -211,7 +211,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 2. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**.
    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2310.07365)] [[Code](https://github.com/wykk00/GraphControl)] [[Chinese Blog](https://zhuanlan.zhihu.com/p/680351601)].
 
-   ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
+    ![](https://img.shields.io/badge/Structural%20Alignment-A52A2A) ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
 
 3. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**.
    In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)].
